@@ -1,7 +1,7 @@
 # About Me:
 Hello, I am Aditya Dave, an M.Tech student at IIIT Bangalore. I am exploring web development, machine learning, and core computer science concepts.
 
-![Krishi Yojana Setu](https://github.com/adityadave29/krishi-yojana-setu) is an ongoing project (as of **December 2025**) aimed at building a **centralized platform** that serves as a one-stop solution for information related to government agricultural schemes (Krishi Yojanas).
+[Krishi Yojana Setu](https://github.com/adityadave29/krishi-yojana-setu) is an ongoing project (as of **December 2025**) aimed at building a **centralized platform** that serves as a one-stop solution for information related to government agricultural schemes (Krishi Yojanas).
 
 ### Problem Statement
 
